@@ -33,13 +33,4 @@
         android:layout_margin="8dp"
         android:background="@drawable/btn_drawable_selector"
         android:padding="16dp" />
-    <ImageButton
-        android:id="@+id/imgButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="2dp"
-        android:background="#00FF00"
-        android:padding="4dp"
-        android:scaleType="center"
-        android:src="@drawable/btn_drawable_selector" />
 </LinearLayout>
